@@ -1,0 +1,228 @@
+.main_card {
+    max-height: 80%;
+    max-width: 50%;
+    background-color: $color-2;
+
+    margin: 5% auto;
+    padding: 1rem;
+
+    .roulette_title {
+        text-transform: uppercase;
+        font-weight: bold;
+        text-align: center;
+
+    }
+
+    .roulette-container {
+        position: relative;
+        border: 1px solid black;
+        padding: 0;
+        margin: 1em auto;
+        width: 430px;
+        height: 430px;
+        border-radius: 50%;
+        list-style: none;
+        overflow: hidden;
+
+        .roulette {
+            position: absolute;
+            border: 1px solid black;
+            padding: 0;
+            margin: 1em auto;
+            width: 580px;
+            height: 580px;
+            border-radius: 50%;
+            list-style: none;
+            overflow: hidden;
+            left: -70px;
+            top: -95px;
+
+            li {
+                .background {
+                    overflow: hidden;
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    width: 50%;
+                    height: 50%;
+                    transform-origin: 0% 100%;
+                }
+
+                .content {
+                    position: absolute;
+                    z-index: 30;
+                    text-align: center;
+                    width: 200px;
+                }
+            }
+
+            li:first-child .background {
+                transform: rotate(0deg) skewY(30deg);
+                background: $roulette-color-1;
+            }
+
+            li:nth-child(2) .background {
+                transform: rotate(120deg) skewY(30deg);
+                background: $roulette-color-2;
+            }
+
+            li:nth-child(3) .background {
+                transform: rotate(240deg) skewY(30deg);
+                background: $roulette-color-3;
+            }
+
+            .content.first {
+                left: 15%;
+                top: 30%;
+            }
+
+            .content.second {
+                right: 15%;
+                top: 30%;
+            }
+
+            .content.third {
+                bottom: 15%;
+                left: 30%;
+            }
+        }
+    }
+
+    .roulette_spinning {
+        animation: spin 0.1s infinite linear;
+    }
+
+    .roulette_button {
+        background-color: $color-4;
+        color: black;
+        padding: 12px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        font-size: 16px;
+        font-weight: bold;
+
+    }
+
+    .roulette_arrow {
+        position: absolute;
+        top: 40%;
+        right: 65%;
+
+        font-size: 5rem;
+        color: yellow;
+
+    }
+
+}
+
+@media (max-width: 768px) {
+    .main_card {
+        max-height: 100%;
+        max-width: 100%;
+
+        .roulette-container {
+            position: relative;
+            border: 1px solid black;
+            padding: 0;
+            margin: 1em auto;
+            width: 360px;
+            height: 360px;
+            border-radius: 50%;
+            list-style: none;
+            overflow: hidden;
+
+            .roulette {
+                position: absolute;
+                border: 1px solid black;
+                padding: 0;
+                margin: 1em auto;
+                width: 480px;
+                height: 480px;
+                border-radius: 50%;
+                list-style: none;
+                overflow: hidden;
+                left: -70px;
+                top: -95px;
+
+                li {
+                    .background {
+                        overflow: hidden;
+                        position: absolute;
+                        top: 0;
+                        right: 0;
+                        width: 50%;
+                        height: 50%;
+                        transform-origin: 0% 100%;
+                    }
+
+                    .content {
+                        position: absolute;
+                        z-index: 30;
+                        text-align: center;
+                        width: 50px;
+                    }
+                }
+
+                li:first-child .background {
+                    transform: rotate(0deg) skewY(30deg);
+                    background: $roulette-color-1;
+                }
+
+                li:nth-child(2) .background {
+                    transform: rotate(120deg) skewY(30deg);
+                    background: $roulette-color-2;
+                }
+
+                li:nth-child(3) .background {
+                    transform: rotate(240deg) skewY(30deg);
+                    background: $roulette-color-3;
+                }
+
+                .content.first {
+                    left:  25%;
+                    top: 35%;
+                }
+
+                .content.second {
+                    right: 30%;
+                    top: 25%;
+                }
+
+                .content.third {
+                    bottom: 25%;
+                    left: 45%;
+                }
+            }
+        }
+
+        .roulette_spinning {
+            animation: spin 0.1s infinite linear;
+        }
+
+        .roulette_button {
+            background-color: $color-4;
+            color: black;
+            padding: 12px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            font-weight: bold;
+
+        }
+
+        .roulette_arrow {
+            position: absolute;
+            top: 30%;
+            right: 90%;
+
+            font-size: 2rem;
+            color: yellow;
+
+        }
+
+    }
+}
