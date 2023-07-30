@@ -6,50 +6,50 @@
         {
           "pregunta": "¿Cómo era considerado el trabajo en la Antigua Grecia?",
           "opciones": {
-            "A": "Actividad digna con función social",
-            "B": "Actividad indigna",
-            "C": "Actividad remunerada",
-            "D": "Ninguna es correcta"
+            "A": "A) Actividad digna con función social",
+            "B": "B) Actividad indigna",
+            "C": "C) Actividad remunerada",
+            "D": "D) Ninguna es correcta"
           },
           "respuesta_correcta": "B"
         },
         {
           "pregunta": "¿Cómo era considerado el trabajo en la Revolución Industrial?",
           "opciones": {
-            "A": "Actividad dolorosa",
-            "B": "Actividad religiosa y ética",
-            "C": "Actividad como factor de producción",
-            "D": "Actividad para redimirse"
+            "A": "A) Actividad dolorosa",
+            "B": "B) Actividad religiosa y ética",
+            "C": "C) Actividad como factor de producción",
+            "D": "D) Actividad para redimirse"
           },
           "respuesta_correcta": "C"
         },
         {
           "pregunta": "¿Cómo era considerado el trabajo en la Edad Media?",
           "opciones": {
-            "A": "Actividad útil y colectiva",
-            "B": "Actividad con esencia religiosa",
-            "C": "Actividad de esclavos",
-            "D": "Todas son correctas"
+            "A": "A) Actividad útil y colectiva",
+            "B": "B) Actividad con esencia religiosa",
+            "C": "C) Actividad de esclavos",
+            "D": "D) Todas son correctas"
           },
           "respuesta_correcta": "A"
         },
         {
           "pregunta": "¿Cómo era considerado el trabajo en la Modernidad?",
           "opciones": {
-            "A": "Concepción laica",
-            "B": "Actividad central y rutinaria",
-            "C": "Actividad destinada al castigo",
-            "D": "Actividad sin libertad"
+            "A": "A) Concepción laica",
+            "B": "B) Actividad central y rutinaria",
+            "C": "C) Actividad destinada al castigo",
+            "D": "D) Actividad sin libertad"
           },
           "respuesta_correcta": "B"
         },
         {
           "pregunta": "¿Cómo era el trabajo en el siglo XX?",
           "opciones": {
-            "A": "Actividad remunerada",
-            "B": "Origen de los seguros sociales",
-            "C": "Comienzo de los contratos",
-            "D": "Todas son correctas"
+            "A": "A) Actividad remunerada",
+            "B": "B) Origen de los seguros sociales",
+            "C": "C) Comienzo de los contratos",
+            "D": "D) Todas son correctas"
           },
           "respuesta_correcta": "D"
         }
@@ -61,80 +61,80 @@
         {
           "pregunta": "En los niños, ¿quién tiene mayor porcentaje de trabajo doméstico?",
           "opciones": {
-            "A": "Mujeres",
-            "B": "Varones",
-            "C": "Por igual",
-            "D": "Ninguno"
+            "A": "A) Mujeres",
+            "B": "B) Varones",
+            "C": "C) Por igual",
+            "D": "D) Ninguno"
           },
           "respuesta_correcta": "A"
         },
         {
           "pregunta": "¿A partir de qué edad es legal el trabajo peligroso en Argentina?",
           "opciones": {
-            "A": "17",
-            "B": "16",
-            "C": "18",
-            "D": "20"
+            "A": "A) 17",
+            "B": "B) 16",
+            "C": "C) 18",
+            "D": "D) 20"
           },
           "respuesta_correcta": "C"
         },
         {
           "pregunta": "¿Cuál es el mayor causante del trabajo infantil?",
           "opciones": {
-            "A": "La falta de recursos en los hogares",
-            "B": "Falta de consciencia",
-            "C": "Porcentaje de pobreza",
-            "D": "Todas son correctas"
+            "A": "A) La falta de recursos en los hogares",
+            "B": "B) Falta de consciencia",
+            "C": "C) Porcentaje de pobreza",
+            "D": "D) Todas son correctas"
           },
           "respuesta_correcta": "D"
         },
         {
           "pregunta": "¿Dónde se encuentra mayor porcentaje de trabajo doméstico infantil intenso?",
           "opciones": {
-            "A": "Rural",
-            "B": "Urbano",
-            "C": "A y B",
-            "D": "Por igual"
+            "A": "A) Rural",
+            "B": "B) Urbano",
+            "C": "C) A y B",
+            "D": "D) Por igual"
           },
           "respuesta_correcta": "C"
         },
         {
           "pregunta": "¿Qué ley prohíbe el trabajo infantil en Argentina?",
           "opciones": {
-            "A": "Preámbulo",
-            "B": "Ley 26.390",
-            "C": "Artículo 14 bis",
-            "D": "B y C"
+            "A": "A) Preámbulo",
+            "B": "B) Ley 26.390",
+            "C": "C) Artículo 14 bis",
+            "D": "D) B y C"
           },
           "respuesta_correcta": "D"
         },
         {
           "pregunta": "¿Qué piden a los adolescentes de 16 y 17 años para trabajar?",
           "opciones": {
-            "A": "Autorización de padres/tutor",
-            "B": "Un título",
-            "C": "Autorización Nacional",
-            "D": "No necesita nada"
+            "A": "A) Autorización de padres/tutor",
+            "B": "B) Un título",
+            "C": "C) Autorización Nacional",
+            "D": "D) No necesita nada"
           },
           "respuesta_correcta": "A"
         },
         {
           "pregunta": "¿Cuántas horas diarias puede trabajar máximo un adolescente de 16/17 años?",
           "opciones": {
-            "A": "5",
-            "B": "7",
-            "C": "6",
-            "D": "No hay límite"
+            "A": "A) 5",
+            "B": "B) 7",
+            "C": "C) 6",
+            "D": "D) No hay límite"
           },
           "respuesta_correcta": "C"
         },
         {
           "pregunta": "¿Qué prohibición tiene el trabajo infantil?",
           "opciones": {
-            "A": "Trabajo penoso e insalubre",
-            "B": "Horas extras",
-            "C": "Horario nocturno",
-            "D": "Todas son correctas"
+            "A": "A) Trabajo penoso e insalubre",
+            "B": "B) Horas extras",
+            "C": "C) Horario nocturno",
+            "D": "D) Todas son correctas"
           },
           "respuesta_correcta": "D"
         }
@@ -146,50 +146,50 @@
         {
           "pregunta": "¿De qué rama viene la seguridad social?",
           "opciones": {
-            "A": "Rama de la economía",
-            "B": "Rama del derecho",
-            "C": "Rama de la política",
-            "D": "Ninguna de las anteriores"
+            "A": "A) Rama de la economía",
+            "B": "B) Rama del derecho",
+            "C": "C) Rama de la política",
+            "D": "D) Ninguna de las anteriores"
           },
           "respuesta_correcta": "B"
         },
         {
           "pregunta": "¿Cuáles de estos no es un principio de seguridad social?",
           "opciones": {
-            "A": "Solidaridad",
-            "B": "Integralidad",
-            "C": "Universalidad",
-            "D": "Todas son incorrectas"
+            "A": "A) Solidaridad",
+            "B": "B) Integralidad",
+            "C": "C) Universalidad",
+            "D": "D) Todas son incorrectas"
           },
           "respuesta_correcta": "D"
         },
         {
           "pregunta": "¿Qué son las asignaciones familiares?",
           "opciones": {
-            "A": "Pagos que otorga el gobierno a las familias",
-            "B": "Canastas básicas a las familias",
-            "C": "Puesto de trabajo a los desempleados con cargos familiares",
-            "D": "Todas son correctas"
+            "A": "A) Pagos que otorga el gobierno a las familias",
+            "B": "B) Canastas básicas a las familias",
+            "C": "C) Puesto de trabajo a los desempleados con cargos familiares",
+            "D": "D) Todas son correctas"
           },
           "respuesta_correcta": "A"
         },
         {
           "pregunta": "¿A quién de estos no cubre la seguridad social?",
           "opciones": {
-            "A": "Cargos de familia",
-            "B": "Desempleados",
-            "C": "Jubilados y Pensionados",
-            "D": "Personas con gran riqueza"
+            "A": "A) Cargos de familia",
+            "B": "B) Desempleados",
+            "C": "C) Jubilados y Pensionados",
+            "D": "D) Personas con gran riqueza"
           },
           "respuesta_correcta": "D"
         },
         {
           "pregunta": "¿En dónde podemos encontrar los beneficios de la seguridad social?",
           "opciones": {
-            "A": "En el Artículo 36 de la Constitución Nacional",
-            "B": "En el Artículo 24 de la Constitución Nacional",
-            "C": "En el Artículo 14 bis de la Constitución Nacional",
-            "D": "Ninguna es correcta"
+            "A": "A) En el Artículo 36 de la Constitución Nacional",
+            "B": "B) En el Artículo 24 de la Constitución Nacional",
+            "C": "C) En el Artículo 14 bis de la Constitución Nacional",
+            "D": "D) Ninguna es correcta"
           },
           "respuesta_correcta": "C"
         }
