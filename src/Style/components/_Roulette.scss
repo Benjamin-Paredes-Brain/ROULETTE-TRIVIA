@@ -147,9 +147,9 @@
             position: relative;
             border: 1px solid black;
             padding: 0;
-            margin: 1em auto;
-            width: 360px;
-            height: 360px;
+            margin: 0 auto;
+            width: 320px;
+            height: 320px;
             border-radius: 50%;
             list-style: none;
             overflow: hidden;
@@ -208,12 +208,12 @@
 
                 .content.second {
                     right: 30%;
-                    top: 25%;
+                    top: 30%;
                 }
 
                 .content.third {
-                    bottom: 25%;
-                    left: 45%;
+                    bottom: 20%;
+                    left: 40%;
                 }
             }
         }
@@ -239,8 +239,8 @@
             position: relative;
             align-self: center;
             justify-self: center;
-            height: 7vh;
-            font-size: 5 rem;
+            height: 5vh;
+            font-size: 3rem;
             color: yellow;
 
         }
