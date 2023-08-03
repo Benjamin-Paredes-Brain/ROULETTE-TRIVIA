@@ -148,8 +148,8 @@
             border: 1px solid black;
             padding: 0;
             margin: 0 auto;
-            width: 320px;
-            height: 320px;
+            max-width: 280px;
+            max-height: 280px;
             border-radius: 50%;
             list-style: none;
             overflow: hidden;
@@ -159,8 +159,8 @@
                 border: 1px solid black;
                 padding: 0;
                 margin: 1em auto;
-                width: 480px;
-                height: 480px;
+                width: 430px;
+                height: 430px;
                 border-radius: 50%;
                 list-style: none;
                 overflow: hidden;
@@ -208,12 +208,12 @@
 
                 .content.second {
                     right: 30%;
-                    top: 30%;
+                    top: 25%;
                 }
 
                 .content.third {
-                    bottom: 20%;
-                    left: 40%;
+                    bottom: 25%;
+                    left: 45%;
                 }
             }
         }
@@ -239,7 +239,7 @@
             position: relative;
             align-self: center;
             justify-self: center;
-            height: 5vh;
+            height: 3rem;
             font-size: 3rem;
             color: yellow;
 
