@@ -12,7 +12,8 @@ export const QuestionsTrabajoInfantil = () => {
   const [isTimeUp, setIsTimeUp] = useState(false);
   const [showReturnButton, setShowReturnButton] = useState(false);
   const [answerMessage, setAnswerMessage] = useState("");
-
+  document.body.style.overflow = "hidden";
+  
   useEffect(() => {
     fetchResolve()
       .then((resolvedQuestions) => {

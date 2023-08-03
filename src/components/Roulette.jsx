@@ -6,7 +6,8 @@ export const Roulette = () => {
     const [isSpinning, setIsSpinning] = useState(false);
     const [stoppedColor, setStoppedColor] = useState(null);
     const rouletteRef = useRef(null);
-
+    document.body.style.overflow = "hidden";
+    
     const handleSpinClick = () => {
         if (!isSpinning) {
             setIsSpinning(true);
